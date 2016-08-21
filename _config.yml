@@ -1,3 +1,4 @@
+layout_spectrum: 0.8809403027407825
 typography_spectrum: 0.4504432810936123
 color:
   brandStrength: 0.6657039662823081
@@ -5,11 +6,9 @@ color:
   saturation: 0.030459036119282246
   rhythmicContrast: 0.2988062188960612
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.8809403027407825
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: notizen
-title: notizen aus der provinz
